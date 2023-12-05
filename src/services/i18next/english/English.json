@@ -1,0 +1,153 @@
+{
+  "header": {
+    "news": "News",
+    "aboutUs": "About Us",
+    "programs": "Programs",
+    "research": "Research",
+    "campus": "Campus",
+    "contacts": "Contacts"
+  },
+  "aboutus": {
+    "main": {
+      "maintext": "timeline of the DEPARTMENT OF COMPUTER SCIENCE"
+    },
+    "info": {
+      "ourinf": "2000: Наше заснування",
+      "info1": "Кафедра комп'ютерних наук була заснована в червні 2000 року, а першим завідувачем став Професор Петришин Любомир Богданович. З 2002 по 2014 рік кафедрою керував д.т.н., професор Дивак Микола Петрович. З вересня 2014 року кафедру очолює к.т.н., доцент Пукас Андрій Васильович.",
+      "info2": "Становлення кафедри, започатковане Любомиром Богдановичем, у 2002 році продовжив саме Дивак Микола Петрович. То були нелегці часи і йому довелося зіткнутися з оядом проблем, найскладнішою з яких була нестача викладачів, що могли навчити студентів програмного завеспечення систем.",
+      "info3": "Якщо сьогодні подивитися на колектив кафедри комп’ютерних наук, то близько 80% - це випускники нашої кафедри, чи факультету..",
+      "info4": "У 2005 році розпочато підготовку спеціа- лістів на денній та заочній формах навчання, а з 2006 року - підготовку магістрів за спеціальністю «Програмне забезпечення автоматизованих сис- ",
+      "info5": "Протягом 2007-2008 рр. ми робили вагомі реформи на кафедрі щодо організації навчального процесу.  Зокрема, розробили матрицю компетентностей, орієнтуючись на те, що вимагають працедавці та випускники.",
+      "info6": "У 2010 році розпочато підготовку магістрів за двома спеціальностями: «Програмне забезпечення систем» - 35 осіб та «Інженерія програмного за- безпечення» - 35 осіб. У 2011 році збільшено ліцензію на підготовку бакалаврів за напрямом «Програмна інженерія» у кількості 80 осіб заочної форми навчання. ",
+      "info7": "У 2014 році перерозподілено ліцензію на під- готовку магістрів за рахунок ліцензованого обсягу підготовки спеціалістів за спеціальністю «Інжене- рія програмного забезпечення» у кількості 25 осіб денної та 25 осіб заочної форм навчання. ",
+      "info8": "У зв'язку із введенням нового переліку спеціальностей з 2016 року кафедра комп'ютерних наук є випусковою за спеціальністю «Інженерія програмного забезпечення”(бакалавр, спеціаліст, магістр)"
+    }
+  },
+  "main": {
+    "hero": {
+      "heading": "Learn information technologies & development with us",
+      "subheading": "West Ukrainian National University, Faculty of Computer Information Technologies, Department of Computer Science",
+      "lessonsHeading": "Popular courses",
+      "lessons": {
+        "first": "Foreign language",
+        "second": "C#",
+        "third": "React",
+        "fourth": "IT Project Management",
+        "fifth": "UX Design",
+        "sixth": "Digital Marketing",
+        "seventh": "С++",
+        "eighth": "Operating Systems",
+        "ninth": "Web-based Software Development",
+        "tenth": "Software Development"
+      }
+    },
+    "news": "News",
+    "events": "Events",
+    "facultyStaff": "Faculty Staff",
+    "faqs": {
+      "title": "FAQs",
+      "description": "Here you'll find answers to some of our most frequently asked questions.",
+      "firstQuestion": {
+        "title": "How long is the study period?",
+        "answer": "The study period for a bachelor's degree is 3 years and 9 months. During this time, you will gain the necessary knowledge and skills to become a specialist in your field. If you already have a bachelor's degree and want to improve your skills, then a master's degree, which lasts 1 year and 4 months, will be the perfect choice for you."
+      },
+      "secondQuestion": {
+        "title": "What disciplines will be taught?",
+        "answer": "Our program of study consists of a number of exciting subjects. You'll study: fundamentals of programming, fundamentals of software engineering, object-oriented programming, web programming\n..."
+      },
+      "thirdQuestion": {
+        "title": "What programming languages will I learn?",
+        "answer": "During your studies, you will get acquainted with programming languages such as: C++, C#, Java, JavaScript, PHP, and others."
+      },
+      "fourthQuestion": {
+        "title": "What will I be able to do after graduation?",
+        "answer": "After graduation, you will be able to work as: software developer, software tester, database programmer, database administrator, application programmer, system programmer, ..."
+      },
+      "fifthQuestion": {
+        "title": "Is there an opportunity for internships in IT-companies?",
+        "answer": "Our department cooperates with many world-class IT-companies, so you will be able to do an internship in such companies as: SoftServe, Sigma, Eleks, Apiko, ForteGroup, LinkUpStudio, and others."
+      }
+    }
+  },
+  "footer": {
+    "followUs": "Follow us",
+    "news": "News",
+    "campus": "Campus",
+    "aboutUs": "About Us",
+    "programs": "Programs",
+    "areYouAdmin": "Are u and admin?",
+    "contacts": "Contacts",
+    "information": "Department of Computer Science\nThe University of WUNU\nOlena Teliga Street, 8\nTernopil\n46000",
+    "copyright": "©2023 The University of WUNU"
+  },
+  "errors": {
+    "Email is invalid": "Email is invalid",
+    "Invalid password": "Invalid password",
+    "Email is already registered": "Email is already registered",
+    "User not found": "User not found",
+    "Session expired": "Session expired",
+    "Password is weak": "Password is weak",
+    "Cyrillic was used": "Cyrillic was used",
+    "Invalid language": "Invalid language",
+    "Old password is the same as new password": "Old password is the same as new password",
+    "Invalid role": "Invalid role",
+    "Invalid file type": "Invalid file type",
+    "Invalid file": "Invalid file"
+  },
+  "ourStaff": {
+    "more": "Profile",
+    "showMore": "Show more"
+  },
+  "adminLogin": {
+    "welcome": "Welcome",
+    "email": "Email",
+    "password": "Password",
+    "logIn": "Log In"
+  },
+  "contacts": {
+    "accordionItems": {
+      "fullName": "Full name",
+      "phone": "Phone",
+      "email": "Email",
+      "admission": {
+        "title": "Admission",
+        "fullName": "Manzhula Volodymyr",
+        "phone": "+380 352 236 029",
+        "email": "v.manzhula@wunu.edu.ua"
+      },
+      "education": {
+        "title": "Educational process",
+        "fullName": "Olha Simak",
+        "phone": "+380 352 517 524",
+        "email": "kn@wunu.edu.ua"
+      },
+      "hostel": {
+        "title": "Hostel",
+        "fullName": "Lyudmyla Honchar",
+        "phone": "+380 352 517 524",
+        "email": "l.honchar@wunu.edu.ua"
+      },
+      "documents": {
+        "title": "Certificates, applications",
+        "fullName": "Olha Simak",
+        "phone": "+380 352 236 029",
+        "email": "kn@wunu.edu.ua"
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "fullName": "Nataliya Porplytsya",
+        "phone": "+380 352 517 524",
+        "email": "n.porplytsia@wunu.edu.ua"
+      }
+    },
+    "contactUsForm": {
+      "title": "Contact us",
+      "description": "Let's discuss your question, together we will find a solution to the most difficult problems",
+      "fullName": "Full name",
+      "email": "Email",
+      "text": "Text",
+      "warning": "By clicking on the «Send» button, you accept our privacy policy",
+      "send": "Send"
+    }
+  }
+}

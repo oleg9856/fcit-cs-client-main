@@ -1,0 +1,11 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO">
+      <option name="useSeverityFromConfigFile" value="false" />
+    </inspection_tool>
+    <inspection_tool class="JSHint" enabled="false" level="TYPO" enabled_by_default="false" editorAttributes="TYPO" />
+    <inspection_tool class="StandardJS" enabled="false" level="TYPO" enabled_by_default="false" editorAttributes="TYPO" />
+    <inspection_tool class="TsLint" enabled="false" level="TYPO" enabled_by_default="false" editorAttributes="TYPO" />
+  </profile>
+</component>

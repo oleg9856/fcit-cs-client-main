@@ -1,0 +1,112 @@
+.circle {
+  width: 100px;
+  height: 100px;
+  position: relative;
+
+  border: 2px solid #fff;
+  border-radius: 50%;
+  overflow: hidden;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  cursor: pointer;
+}
+
+.wave {
+  position: absolute;
+  top: 110%;
+  height: 200%;
+  width: 200%;
+  border-radius: 38%;
+  left: -50%;
+  transform: rotate(360deg);
+  transition: all 2s ease;
+  background-image: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+  animation: wave 20s linear infinite;
+}
+
+@keyframes wave {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(3600deg);
+  }
+}
+
+.circle:hover .wave {
+  top: 0%;
+}
+
+.footericons {
+  z-index: 30;
+  position: relative;
+  list-style: none;
+}
+
+.footericons--li {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  margin-right: 15px;
+  border: 2px solid white;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.footericons--li:hover{
+  border-color:  black;
+
+}
+.footericons--li:hover .footericons--a {
+  color:black
+}
+
+.footericons--a {
+  color:white;
+  font-size: 35px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* .footericons--li::before {
+  content: "";
+  width: 300%;
+  height: 300%;
+  top: 100%;
+  left: 0;
+  display: inline-block;
+  position: absolute;
+  background: url("../../../assets/iconsss.svg");
+  transition: 0.5s;
+} */
+
+.footericons--li:hover::before {
+  top: 30%;
+}
+
+.footericons--a:hover {
+  color: black;
+}
+
+.custom2 {
+  position: relative;
+  z-index: 30;
+
+  font-family: "Post No Bills Colombo SemiBold";
+  font-style: normal;
+  font-size: 52px;
+  line-height: 78px;
+
+  align-items: center;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1.5px;
+}
